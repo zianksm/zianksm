@@ -1,7 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm a Blockchain and Backend Developer
+
+- 🔭 I Currently works at [Baliola](https://github.com/baliola)
+- ⚡ Passionate about Rust and Blockchain in General!
+
+
+## Github Stats
+<img alt="zian github stats" src="https://github-readme-stats.vercel.app/api?username=zianksm&show_icons=true&include_all_commits=true&theme=vue&hide_border=true&count_private=true"></img>
+
+## My Languages
+<img alt="zian's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zianksm&layout=compact&theme=vue&hide_border=true&langs_count=8&count_private=true"></img>
 
 <!--
 **zianksm/zianksm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
