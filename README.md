@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm a Blockchain and Backend Developer
 
-- 🔭 I Currently works at [Baliola](https://github.com/baliola)
 - ⚡ Passionate about Rust and Blockchain in General!
 
 
