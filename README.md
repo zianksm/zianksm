@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a Blockchain and Backend Developer
+### Hi there 👋 I'm a Blockchain and Backend Engineer
 
 - ⚡ Passionate about Rust and Blockchain in General!
 
