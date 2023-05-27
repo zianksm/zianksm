@@ -1,6 +1,6 @@
-### Hi there 👋 I'm a Blockchain and Backend Engineer
+### Hi there 👋 I'm Zian
 
-- ⚡ Passionate about Rust and Blockchain in General!
+- ⚡ Passionate about Rust and Blockchain!
 
 
 ## Github Stats
