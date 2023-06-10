@@ -3,7 +3,7 @@
 - ⚡ Passionate about Rust and Blockchain!
 
 
-## Github Stats
+## Stats
 <img alt="zian github stats" src="https://github-readme-stats.vercel.app/api?username=zianksm&private=true&theme=dark"></img>
 <img alt="zian github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=zianksm&theme=dark"></img>
 
